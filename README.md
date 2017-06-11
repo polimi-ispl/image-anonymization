@@ -10,7 +10,7 @@ in IEEE International Conference on Image Processing (ICIP), 2017
 Work in progress.
 
 
-##Â Disclaimer notice ##
+## Disclaimer notice ##
 Users agree to the following restrictions on the utilization of this code:
 
 - Redistribution: This code, in whole or in part, will not be further distributed, published, copied, or disseminated in any way or form whatsoever, whether for profit or not.
