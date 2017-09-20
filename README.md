@@ -6,8 +6,17 @@
 in IEEE International Conference on Image Processing (ICIP), 2017
 
 
+## Requirements ##
+Matlab
+
+
 ## Code ##
-Work in progress.
+In order to run the image anonymization pipeline on an example image, follow these steps:
+
+- Downlad BM3D package from "http://www.cs.tut.fi/~foi/GCF-BM3D/#ref_software" and copy its content in "BM3D" folder.
+- Downlad PRNU extraction package from "http://dde.binghamton.edu/download/camera_fingerprint" and copy its content in "CameraFingerprint" folder.
+- Run the function "compile.m" in folder "CameraFingerprint/Filter".
+- Run the code "image_anonymization_code.m".
 
 
 ## Disclaimer notice ##
